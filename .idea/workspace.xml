@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8844df12-7af5-41db-9914-f74af442d917" name="Changes" comment="modif pour plugin compilation maven 1.8 -&gt; 3.10.1" />
+    <list default="true" id="8844df12-7af5-41db-9914-f74af442d917" name="Changes" comment="language level 8">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671461216000</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="language level 8">
+      <created>1671461376081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671461376081</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,7 +181,8 @@
     <MESSAGE value="ajout slf4j" />
     <MESSAGE value="modif pour plugin compilation maven" />
     <MESSAGE value="modif pour plugin compilation maven 1.8 -&gt; 3.10.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="modif pour plugin compilation maven 1.8 -&gt; 3.10.1" />
+    <MESSAGE value="language level 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="language level 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

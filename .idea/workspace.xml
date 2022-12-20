@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8844df12-7af5-41db-9914-f74af442d917" name="Changes" comment="maven surefire plugin">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8844df12-7af5-41db-9914-f74af442d917" name="Changes" comment="structure pom selon ahmad">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/packagePocAutom/MaPremiereClasseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/packagePocAutom/MaPremiereClasseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -194,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671462282621</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="structure pom selon ahmad">
+      <created>1671465431441</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671465431441</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +230,8 @@
     <MESSAGE value="modif pour plugin compilation maven 1.8 -&gt; 3.10.1" />
     <MESSAGE value="language level 8" />
     <MESSAGE value="maven surefire plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="maven surefire plugin" />
+    <MESSAGE value="structure pom selon ahmad" />
+    <option name="LAST_COMMIT_MESSAGE" value="structure pom selon ahmad" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
